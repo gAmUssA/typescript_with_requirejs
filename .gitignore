@@ -1,0 +1,10 @@
+node_modules/
+bower_components/
+temp/
+dist/
+
+### IntelliJ ###
+*.iml
+*.ipr
+*.iws
+.idea/
